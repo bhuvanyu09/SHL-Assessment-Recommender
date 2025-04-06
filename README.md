@@ -29,5 +29,5 @@ SHL assessments are widely used by companies to evaluate candidates for various 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/bhuvanyu09/SHL-Assessment-Recommendergit
+git clone https://github.com/bhuvanyu09/SHL-Assessment-Recommender.git
 cd SHL-Assessment-Recommender
